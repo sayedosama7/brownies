@@ -1,0 +1,30 @@
+ <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container">
+          <a class="navbar-brand" href="الرئيسية.html">الرئيسية</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" >
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="قسم الغربي.html">قسم الغربي</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="قسم الشرقي .html">قسم الشرقي</a>
+              </li>
+              
+              <li class="nav-item">
+                <a class="nav-link" href="قسم المخبوزات.html">قسم المخبوزات</a>
+            
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="التسجيل.html">التسجيل</a>
+              </li>
+            </ul>
+            <i class="fa-solid fa-cart-shopping-fast"></i>
+             </div>
+        </div>
+    
+    
+      </nav>
+    
